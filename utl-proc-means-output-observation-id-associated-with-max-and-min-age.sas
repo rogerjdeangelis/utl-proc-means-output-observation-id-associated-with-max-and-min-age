@@ -1,5 +1,9 @@
 Proc Means Output observation id associated with max and min
 
+I applied data_null_'s simplification
+data _null_; <datanull@GMAIL.COM>
+https://listserv.uga.edu/cgi-bin/wa?A2=SAS-L;ee765358.1901a
+
 INPUT
 =====
 
